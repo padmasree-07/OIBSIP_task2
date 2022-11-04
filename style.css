@@ -1,0 +1,82 @@
+body{
+    background-image: linear-gradient(to right , rgba(212, 21, 221, 0), rgba(21,166,222,1));
+    text-align: center;
+  }
+  
+  #title h1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+    font-size: 2em;
+  }
+  
+  #title h3{
+    font-size: 130%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+    font-weight: normal;
+  }
+  
+  #img-div{
+    
+    padding: 2% 1%;
+    margin: 1%;
+    border-radius: 3%;
+  }
+  
+  #image{
+    width: 100%;
+  }
+  
+  #img-caption{
+    font-size: 1.1em;
+    margin: 1em;
+  }
+  
+  #tribute-info p{
+    text-align: left;
+    line-height: 1.5em;
+    font-size: 1.5em;
+  }
+  
+  .subheading{
+    font-size: 1.8em;
+  }
+  
+  
+  #tribute-info ul{
+    text-align: left;
+    line-height: 2.7em;
+    font-size: 1.5em;
+  }
+  
+  .quote-box{
+    border-style: double;
+  }
+  
+  .quote{
+    font-style: italic;
+    font-size: 200%;
+    
+  }
+  
+  .signature{
+    
+    font-style: italic;
+    text-align: right;
+    margin: 2%;
+    font-size: 150%;
+  }
+  
+  nav p{
+    line-height: 2em;
+    font-size: 1.5em;
+    text-align: left;
+    font-weight: bold;
+  }
+  
+  nav a{
+    text-decoration: none;
+    color: #0000A0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+  }
